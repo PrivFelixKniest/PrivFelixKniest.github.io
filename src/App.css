@@ -20,14 +20,23 @@
   cursor: pointer;
 }
 
-h1 {
-  color: white;
-  font-size: 90px;
-  margin: 0;
-  font-family: "HeaderFont";
-  font-weight: normal;
-  line-height: 90px;
+.tinyImage {
+  transition: all linear .2s;
+  margin-top: auto 0;
 }
+
+.tinyButton {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.tinyImage:hover {
+  width: 35px;
+  height: 35px;
+}
+
+
 
 p {
   margin: 0;
@@ -48,6 +57,26 @@ p {
 @media (max-width: 1100px) {
   .emails {
     display: none;
+  }
+
+  h1 {
+    color: white;
+    font-size: 70px;
+    margin: 0;
+    font-family: "HeaderFont";
+    font-weight: normal;
+    line-height: 70px;
+  }
+}
+
+@media (min-width: 1100px) {
+  h1 {
+    color: white;
+    font-size: 90px;
+    margin: 0;
+    font-family: "HeaderFont";
+    font-weight: normal;
+    line-height: 90px;
   }
 }
 

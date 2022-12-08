@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState } from "react"
+import React from "react"
 import backgroundVideo from "./recourses/videos/breath_ctrl_loop.mp4"
 import Button from "./components/Button.jsx"
 import TinyButton from './components/TinyButton';
@@ -16,8 +16,6 @@ import scanLogo from "./recourses/images/scan_logo.png"
 
 
 function App() {
-  let mediaQuery = window.matchMedia('(min-width: 770px)')
-
   return (
     <div className="App">
       <div className="container" style={{overflow: "hidden"}}>
