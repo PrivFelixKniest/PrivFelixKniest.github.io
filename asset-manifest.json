@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cb0746b.css",
+    "main.js": "/static/js/main.b5d1aa13.js",
+    "static/js/787.48413329.chunk.js": "/static/js/787.48413329.chunk.js",
+    "static/media/breath_ctrl_loop.mp4": "/static/media/breath_ctrl_loop.7614ef087161801b1d3e.mp4",
+    "static/media/youtube.png": "/static/media/youtube.9a724ab5d5e788e0ba6d.png",
+    "static/media/labelradar.png": "/static/media/labelradar.14d38d7ff8f93367d580.png",
+    "static/media/clockwise_light.otf": "/static/media/clockwise_light.2eeef663e7732fc27e8f.otf",
+    "static/media/soundcloud_icon.png": "/static/media/soundcloud_icon.9b052b8aec82f50006f3.png",
+    "static/media/spotify-512.png": "/static/media/spotify-512.ff0af4c717d57a18f293.png",
+    "static/media/gumroad.png": "/static/media/gumroad.36ec0c039a925e893c5f.png",
+    "index.html": "/index.html",
+    "main.6cb0746b.css.map": "/static/css/main.6cb0746b.css.map",
+    "main.b5d1aa13.js.map": "/static/js/main.b5d1aa13.js.map",
+    "787.48413329.chunk.js.map": "/static/js/787.48413329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb0746b.css",
+    "static/js/main.b5d1aa13.js"
+  ]
+}
