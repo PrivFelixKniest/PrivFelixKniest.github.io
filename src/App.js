@@ -16,21 +16,12 @@ import scanLogo from "./recourses/images/scan_logo.png"
 
 
 function App() {
-  let vh = window.innerHeight * 0.01;
-
-  window.addEventListener('resize', () => {
-    // We execute the same script as before
-    let vh = window.innerHeight * 0.01;
-    document.documentElement.style.setProperty('--vh', `${vh}px`);
-  });
-
   return (
     <div className="App">
       <div className="container" style={{overflow: "hidden"}}>
         <div className="videoWrapper" style={{
           width: "100vw",
           height: "100vh",
-          height: `calc(var(--vh, 1${vh}) * 100)`,
           backgroundColor: "black",
         }}>
           <video autoPlay loop muted id="backgroundVideo" style={{
