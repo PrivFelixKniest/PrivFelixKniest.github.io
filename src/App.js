@@ -101,11 +101,11 @@ function App() {
           left: "50%",
           transform: "translateX(-50%)",
         }}>
-          <div style={{ color: "white", width: "400px", textAlign: "right"}}><b>SUBMIT:</b> <i>scan.records.release@gmail.com</i></div>
+          <div style={{ color: "white", width: "400px", textAlign: "right"}}><i>submit@scanrecs.com</i></div>
           <div style={{width: "40px"}}/>
           <div style={{width: "2px", hieght: "100%", backgroundColor: "white", borderRadius: "2px"}} />
           <div style={{width: "40px"}}/>
-          <div style={{ color: "white", width: "400px", textAlign: "left"}}><b>CONTACT:</b> <i>scan.records.contact@gmail.com</i></div>
+          <div style={{ color: "white", width: "400px", textAlign: "left"}}><i>contact@scanrecs.com</i></div>
         </div>
         <div className="c" style={{
           position: "absolute",

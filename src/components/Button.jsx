@@ -3,7 +3,7 @@ import React from "react"
 const Button = ({ text }) => {
     const handleClick = (e) => {
         e.preventDefault();
-        window.location.href="mailto:scan.records.contact@gmail.com?body=Dear team at Scan Records,";
+        window.location.href="mailto:contact@scanrecs.com?body=Dear team at Scan Records,";
     }
 
     return (
