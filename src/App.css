@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "HeaderFont";
+  src:url(./recourses/fonts/clockwise-freefont/Clockwise-FreeFont/clockwise_light.otf) format("opentype");
+}
+
+.buttonLinkDiv {
+  color: white; 
+  border: 1px solid white; 
+  border-radius: 9px 9px 9px 0;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: all 0.2s;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.buttonLinkDiv:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+h1 {
+  color: white;
+  font-size: 90px;
+  margin: 0;
+  font-family: "HeaderFont";
+  font-weight: normal;
+  line-height: 90px;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 20px;
+  color: white;
+
+}
+
+.emails {
+  display: flex;
+}
+
+.linkBar {
+  display: flex;
+}
+
+@media (max-width: 1100px) {
+  .emails {
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  .linkBar {
+    position: absolute;
+    display: block;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+  }
+}
+
+@media (min-width: 700px) {
+  .linkBar {
+    position: absolute;
+    bottom: 40px;
+    margin: 0 auto;
+    z-index: 1;
+    left: 50%;
+    transform: translateX(-50%);
+  } 
+}

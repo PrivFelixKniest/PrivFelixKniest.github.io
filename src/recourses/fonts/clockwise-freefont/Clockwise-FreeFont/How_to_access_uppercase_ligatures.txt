@@ -1,0 +1,6 @@
+- To access the uppercase ligatures, first make sure the ligature Opentype function is enabled, and then type: letter*letter (eg.: A*J).
+
+- Alternatively, you can find the glyphs in your glyph panel (in case the software you are using has a glyp panel).
+
+Hope you enjoy using the font!
+Ana
