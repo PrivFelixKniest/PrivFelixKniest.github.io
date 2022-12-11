@@ -11,8 +11,6 @@ import gumroadIcon from "./recourses/images/gumroad.png"
 import discordIcon from "./recourses/images/discord-512.png"
 import youtubeIcon from "./recourses/images/youtube.png"
 import labelradarIcon from "./recourses/images/labelradar.png"
-// Scan Logo
-import scanLogo from "./recourses/images/scan_logo.png"
 
 
 function App() {
@@ -59,17 +57,6 @@ function App() {
           bottom: "0px",
         }}>
   
-        </div>
-        <div className="logo" style={{
-          position: "absolute",
-          top: "10px",
-          margin: "0 auto",
-          zIndex: "1",
-          left: "50%",
-          transform: "translateX(-50%)",
-          display: "flex",
-        }}>
-          <img src={scanLogo} height="40px" width="40px" style={{ opacity: "0.7" }} alt="Scan Records Logo"/>
         </div>
         <div className="content" style={{ position: "absolute", left: "14%", bottom: "25%", marginRight: "100px"}}>
           <h1>Scan Records</h1>
