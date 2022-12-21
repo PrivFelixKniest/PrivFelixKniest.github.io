@@ -61,11 +61,11 @@ p {
 
   h1 {
     color: white;
-    font-size: 70px;
+    font-size: 55px;
     margin: 0;
     font-family: "HeaderFont";
     font-weight: normal;
-    line-height: 70px;
+    line-height: 55px;
   }
 }
 
@@ -84,9 +84,17 @@ p {
   .linkBar {
     position: absolute;
     display: block;
-    top: 10px;
+    top: 50%;
     left: 10px;
     z-index: 1;
+    transform: translateY(-50%)
+  }
+  .content {
+    position: absolute; 
+    left: 50%; 
+    bottom: 32%;
+    transform: translateX(-50%);
+    text-align: center;
   }
 }
 
@@ -99,4 +107,10 @@ p {
     left: 50%;
     transform: translateX(-50%);
   } 
+  .content {
+    position: absolute; 
+    left: 14%; 
+    bottom: 25%;
+    margin-right: 100px;
+  }
 }

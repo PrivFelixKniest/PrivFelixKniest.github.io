@@ -58,7 +58,9 @@ function App() {
         }}>
   
         </div>
-        <div className="content" style={{ position: "absolute", left: "14%", bottom: "25%", marginRight: "100px"}}>
+        <div className="content" style={{ 
+
+        }}>
           <h1>Scan Records</h1>
           <p><i>Independant Label & Media Company</i></p>
           <Button text="CONTACT US" />  
