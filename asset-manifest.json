@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.d625c340.css",
-    "main.js": "/static/js/main.b138cfea.js",
+    "main.css": "/static/css/main.bbc283cd.css",
+    "main.js": "/static/js/main.b2626e67.js",
     "static/js/787.48413329.chunk.js": "/static/js/787.48413329.chunk.js",
     "static/media/breath_ctrl_loop-HQ.mp4": "/static/media/breath_ctrl_loop-HQ.e5af8fa4fccd9903916c.mp4",
+    "static/media/trustpilot custom widget.png": "/static/media/trustpilot custom widget.7d4e1a4e438719b8ff9c.png",
+    "static/media/Trustpilot.png": "/static/media/Trustpilot.7f7475d240dbb083845c.png",
     "static/media/youtube.png": "/static/media/youtube.9a724ab5d5e788e0ba6d.png",
     "static/media/labelradar.png": "/static/media/labelradar.14d38d7ff8f93367d580.png",
     "static/media/clockwise_light.otf": "/static/media/clockwise_light.2eeef663e7732fc27e8f.otf",
@@ -11,12 +13,12 @@
     "static/media/spotify-512.png": "/static/media/spotify-512.ff0af4c717d57a18f293.png",
     "static/media/gumroad.png": "/static/media/gumroad.36ec0c039a925e893c5f.png",
     "index.html": "/index.html",
-    "main.d625c340.css.map": "/static/css/main.d625c340.css.map",
-    "main.b138cfea.js.map": "/static/js/main.b138cfea.js.map",
+    "main.bbc283cd.css.map": "/static/css/main.bbc283cd.css.map",
+    "main.b2626e67.js.map": "/static/js/main.b2626e67.js.map",
     "787.48413329.chunk.js.map": "/static/js/787.48413329.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d625c340.css",
-    "static/js/main.b138cfea.js"
+    "static/css/main.bbc283cd.css",
+    "static/js/main.b2626e67.js"
   ]
 }
