@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.bbc283cd.css",
-    "main.js": "/static/js/main.b2626e67.js",
+    "main.js": "/static/js/main.4142d081.js",
     "static/js/787.48413329.chunk.js": "/static/js/787.48413329.chunk.js",
     "static/media/breath_ctrl_loop-HQ.mp4": "/static/media/breath_ctrl_loop-HQ.e5af8fa4fccd9903916c.mp4",
-    "static/media/trustpilot custom widget.png": "/static/media/trustpilot custom widget.7d4e1a4e438719b8ff9c.png",
+    "static/media/trustpilot custom widget transparent.png": "/static/media/trustpilot custom widget transparent.35139f3a44d1e533270a.png",
     "static/media/Trustpilot.png": "/static/media/Trustpilot.7f7475d240dbb083845c.png",
     "static/media/youtube.png": "/static/media/youtube.9a724ab5d5e788e0ba6d.png",
     "static/media/labelradar.png": "/static/media/labelradar.14d38d7ff8f93367d580.png",
@@ -14,11 +14,11 @@
     "static/media/gumroad.png": "/static/media/gumroad.36ec0c039a925e893c5f.png",
     "index.html": "/index.html",
     "main.bbc283cd.css.map": "/static/css/main.bbc283cd.css.map",
-    "main.b2626e67.js.map": "/static/js/main.b2626e67.js.map",
+    "main.4142d081.js.map": "/static/js/main.4142d081.js.map",
     "787.48413329.chunk.js.map": "/static/js/787.48413329.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc283cd.css",
-    "static/js/main.b2626e67.js"
+    "static/js/main.4142d081.js"
   ]
 }
